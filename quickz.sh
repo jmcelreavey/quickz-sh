@@ -24,6 +24,7 @@ else
 fi
 
 cp -f .zshrc ~/
+cp -f .p10k.zsh ~/
 
 
 mkdir -p ~/.quickzsh       # external plugins, things, will be instlled in here
